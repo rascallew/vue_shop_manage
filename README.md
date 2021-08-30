@@ -1,16 +1,16 @@
 # vue_shop_manage
 
-## Project setup
+## 安装依赖
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### 运行
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### 打包上线
 ```
 yarn build
 ```
