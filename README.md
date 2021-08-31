@@ -17,7 +17,7 @@ yarn build
 
 ### 示例图片
 
-![登陆页面](H:\桌面\Snipaste_2021-08-31_23-16-44.png)
+![登陆页面](http://note.youdao.com/noteshare?id=afabaeb07271e9144e0a6a4c09c76ee0)
 
 
 ### Customize configuration
