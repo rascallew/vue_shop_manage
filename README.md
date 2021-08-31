@@ -17,7 +17,7 @@ yarn build
 
 ### 示例图片
 
-![登陆页面](https://note.youdao.com/ynoteshare1/index.html?id=afabaeb07271e9144e0a6a4c09c76ee0&type=note)
+![登陆页面](note.youdao.com/ynoteshare1/index.html?id=afabaeb07271e9144e0a6a4c09c76ee0&type=note)
 
 
 ### Customize configuration
